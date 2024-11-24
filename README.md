@@ -12,7 +12,7 @@ A passionate Full Stack Developer from Sri Lanka, with a strong focus on craftin
 - **Tools**: Git, VS Code, Postman
 
 ## 🌟 Featured Projects
-- **Web-Based AI-Powered Attendance Management System with Facial Recognition ** - Built using Laravel
+- **Web-Based AI-Powered Attendance Management System with Facial Recognition** - Built using Laravel
 - **Project Management System** - A comprehensive solution for managing projects and teams
 - **E-commerce Platform** - Full-stack online shopping platform with payment integration
  
