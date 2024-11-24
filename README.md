@@ -12,9 +12,10 @@ A passionate Full Stack Developer from Sri Lanka, with a strong focus on craftin
 - **Tools**: Git, VS Code, Postman
 
 ## 🌟 Featured Projects
+- **Web-Based AI-Powered Attendance Management System with Facial Recognition ** - Built using Laravel
 - **Project Management System** - A comprehensive solution for managing projects and teams
 - **E-commerce Platform** - Full-stack online shopping platform with payment integration
-- **Real-time Chat Application** - Built using Socket.io and React
+ 
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://img.shields.io/github/followers/sameeraswijekoon?label=Followers&style=social)
